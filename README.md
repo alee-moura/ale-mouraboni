@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="img/hi.png">
-</p>
-
 <h1 align="center">Estatísticas do Github</h1>
 
 <p align="center">
@@ -10,9 +6,7 @@
     <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=radical"/>
 </p>
 
-<p align="center">
-    <img src="img/about.png">
-</p>
+<h2 align="center">Sobre Mim</h2>
 
 <p align="center">
     - Olá! meu nome é Alexandre, tenho 20 anos de idade.
@@ -33,7 +27,7 @@
 </p>
 
 <p align="center">
-    - Minhas habilidades mais desenvolvidas são em:
+    - Habilidades:
 </p>
 
 <p align="center">
