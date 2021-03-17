@@ -15,6 +15,12 @@
 </p>
 
 <p align="center">
+    <a href="www.amastertech.com.br">
+        <img src="https://img.shields.io/badge/SITE-241c71?style=for-the-badge">
+    </a>
+</p>
+
+<p align="center">
     - Olá! meu nome é Alexandre, tenho 20 anos de idade.
     </br>
     - Sou iniciante do mundo da programação, atualmente estou estagiando na CajuComunica como desenvolvedor Front End.
@@ -23,11 +29,7 @@
     </br>
     - Atualmente estou estudando no bootcamp Desenvolvedor Front End da IGTI. 
 </p>
-<p align="center">
-    <a href="www.amastertech.com.br">
-        <img src="https://img.shields.io/badge/SITE-241c71?style=for-the-badge">
-    </a>
-</p>
+
 <p align="center">
     - Minhas habilidades mais desenvolvidas são em:
 </p>
