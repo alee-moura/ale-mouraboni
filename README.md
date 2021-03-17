@@ -4,15 +4,11 @@
 
 <h1 align="center">Estatísticas do Github</h1>
 
-<table>
-    <tr>
-        <td width="50%" align="center">
-            <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=radical">
-            </br>
-            <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=radical"/>
-        </td>
-    </tr>
-</table>
+<p align="center">
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=radical">
+    </br>
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=radical"/>
+</p>
 
 <p align="center">
     <img src="img/about.png">
