@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-    <a href="www.amastertech.com.br">
+    <a href="http://www.amastertech.com.br/">
         <img src="https://img.shields.io/badge/SITE-241c71?style=for-the-badge">
     </a>
 </p>
