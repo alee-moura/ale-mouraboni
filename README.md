@@ -51,10 +51,10 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ale-mouraboni/">
+    <a href="https://www.linkedin.com/in/ale-mouraboni/" target="_blank">
         <img alt="Linkedin" src="img/linkedin.svg" width="40">
     </a>
-    <a href="https://www.instagram.com/ale.cldd/">
+    <a href="https://www.instagram.com/ale.cldd/" target="_blank">
         <img alt="Instagram" src="img/instagram.svg" width="40">
     </a>
 </p>
