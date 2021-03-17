@@ -21,7 +21,9 @@
     </br>
     - Também estou começando a colocar algumas ideias em prática com o intuito de abrir a minha própria empresa de tecnologia.
     </br>
-    - Atualmente estou estudando no bootcamp Desenvolvedor Front End da IGTI. 
+    - Atualmente estou estudando no bootcamp Desenvolvedor Front End da IGTI.
+    </br>
+    - Também estou estudando para a certificação LPIC em Linux.
 </p>
 
 <p align="center">
