@@ -22,7 +22,7 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 * Coding at least 3 hours a day
 * A lot of water :)
 
-#### :globe_with_meridians: Technology:
+#### :globe_with_meridians: Technologies I use:
 ![HTML5](img/html5.svg)
 ![CSS3](img/css3.svg)
 ![CSS3](img/bootstrap.svg)  
