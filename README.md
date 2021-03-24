@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<img width="50%" heigth="auto" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=radical">
 <img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=radical">
+<img width="50%" heigth="auto" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=radical">
 <img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=radical">
 
 ### I'm Alexandre!
