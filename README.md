@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<img width="50%" heigth="auto" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=radical">
+<img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=radical">
+<img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=radical">
+
 ### I'm Alexandre!
 
 [![Website](https://img.shields.io/badge/-Website-1f1669)](http://amastertech.com.br/)
@@ -8,9 +13,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ale.cldd/)
 
 Welcome to my Github page! My name is Alexandre, Feel free!
-
-<img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=radical">
-<img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=radical">
 
 #### 🌱 Main studies currently:
 * Bootcamp Front End - IGTI
