@@ -16,7 +16,7 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 
 #### 🌱 Main studies currently:
 * Bootcamp Front End - IGTI
-* Linux LPCI-1
+* Linux LPIC-1
 * JavaScript
 
 #### :muscle: Some daily practices:
