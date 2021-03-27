@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=algolia">
-<img width="50%" heigth="auto" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=algolia">
-<img width="50%" height="auto" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=algolia">
+<img width="50%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=algolia">
+<img width="50%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=algolia">
+<img width="50%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=algolia">
+
 
 ### I'm Alexandre!
 
