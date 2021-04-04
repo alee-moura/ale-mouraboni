@@ -31,6 +31,6 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 ![JavaScript](https://img.shields.io/badge/%20JAVASCRIPT-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/%20GIT-%23f34f29?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/%20GITHUB-%23000000?style=for-the-badge&logo=github&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/%20VS%20Code-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![VS Code](https://img.shields.io/badge/%20VS%20Code-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Linux](https://img.shields.io/badge/%20LINUX-%23dd4814?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/%20WINDOWS-%230066cc?style=for-the-badge&logo=windows&logoColor=white)
