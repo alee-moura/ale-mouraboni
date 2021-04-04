@@ -10,7 +10,7 @@
 [![Website](https://img.shields.io/badge/-Website-1f1669)](http://amastertech.com.br/)
 [![CajuComunica](https://img.shields.io/badge/-CajuComunica-f08700)](http://cajucomunica.com.br/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ale-mouraboni)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ale-mouraboni/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ale-mouraboni/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ale.cldd/)
 
 Welcome to my Github page! My name is Alexandre, Feel free!
