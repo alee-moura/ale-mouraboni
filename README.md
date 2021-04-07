@@ -1,6 +1,6 @@
-<img width="50%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=algolia">
-<img width="50%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=algolia">
-<img width="50%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=algolia">
+<img width="50%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=dark">
+<img width="50%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=dark">
+<img width="50%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=dark">
 
 ### Hi there 👋
 
@@ -24,7 +24,7 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 * Coding at least 3 hours a day
 * A lot of water :)
 
-#### :globe_with_meridians: Technologies I use:
+#### :globe_with_meridians: Technologies and tools:
 ![HTML5](https://img.shields.io/badge/%20HTML-%23e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/%20CSS-%231772b6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/%20BOOTSTRAP-%23563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)  
