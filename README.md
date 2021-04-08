@@ -2,6 +2,8 @@
 <img width="50%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=algolia">
 <img width="50%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=algolia">
 
+<div>
+
 ### Hi there 👋
 
 ### I'm Alexandre!
@@ -24,6 +26,8 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 * Coding at least 3 hours a day
 * A lot of water :)
 
+</div>
+
 ---
 
 <table>
@@ -41,6 +45,7 @@ Welcome to my Github page! My name is Alexandre, Feel free!
             <img alt="Github" src="https://img.shields.io/badge/%20GITHUB-Social-%23000000?style=for-the-badge&logo=github&logoColor=white">
             <img alt="Markdown" src="https://img.shields.io/badge/%20MARKDOWN-Readme-%23000000?style=for-the-badge&logo=markdown&logoColor=white">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/%20Visual%20Studio%20Code-Application-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+            </br>
             <img alt="Linux" src="https://img.shields.io/badge/%20LINUX-System-%23dd4814?style=for-the-badge&logo=linux&logoColor=white">
             <img alt="Windows" src="https://img.shields.io/badge/%20WINDOWS-System-%230066cc?style=for-the-badge&logo=windows&logoColor=white">
         </td>
