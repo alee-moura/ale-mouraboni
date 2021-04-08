@@ -32,8 +32,6 @@ Welcome to my Github page! My name is Alexandre, Feel free!
     </tr>
 </table>
 
----
-
 <table>
     <tr>
     <p align="center">:globe_with_meridians: Technologies and tools I use:</p>
