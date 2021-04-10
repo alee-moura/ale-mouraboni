@@ -44,8 +44,8 @@ Welcome to my Github page! My name is Alexandre, Feel free!
             <img alt="JavaScript" src="https://img.shields.io/badge/%20JAVASCRIPT-Frontend-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=white">
             <img alt="Bootstrap" src="https://img.shields.io/badge/%20BOOTSTRAP-Framework-%23563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
             <img alt="Git" src="https://img.shields.io/badge/%20GIT-Vcs-%23f34f29?style=for-the-badge&logo=git&logoColor=white">
-            <img alt="Github" src="https://img.shields.io/badge/%20GITHUB-Social-%23000000?style=for-the-badge&logo=github&logoColor=white">
-            <img alt="Markdown" src="https://img.shields.io/badge/%20MARKDOWN-Language-%23000000?style=for-the-badge&logo=markdown&logoColor=white">
+            <img alt="Github" src="https://img.shields.io/badge/%20GITHUB-Social-%23111111?style=for-the-badge&logo=github&logoColor=white">
+            <img alt="Markdown" src="https://img.shields.io/badge/%20MARKDOWN-Language-%23111111?style=for-the-badge&logo=markdown&logoColor=white">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/%20Visual%20Studio%20Code-Application-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
             </br>
             <img alt="NPM" src="https://img.shields.io/badge/%20NPM-Pack%20Manager-%23cc3534?style=for-the-badge&logo=npm&logoColor=white">
