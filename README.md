@@ -32,20 +32,20 @@ Welcome to my Github page! My name is Alexandre, Feel free!
     <tr>
     <p align="center">:mag_right: Github and Wakatime stats:</p>
       <td width="50%" align="center" vertical-align="middle">
-        <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=midnight-purple">
+        <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=react">
       </td>
       <td width="50%" align="center" vertical-align="middle">
-        <img width="100%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=midnight-purple">
+        <img width="100%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=react">
       </td>
     </tr>
 </table>
 <table>
     <tr>
       <td width="50%" align="center" vertical-align="middle">
-        <img width="100%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=midnight-purple">
+        <img width="100%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=react">
       </td>
       <td width="50%" align="center" vertical-align="middle">
-        <img alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alemouraboni&theme=midnight-purple">
+        <img alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alemouraboni&theme=react">
       </td>
     </tr>
 </table>
