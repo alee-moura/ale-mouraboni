@@ -1,4 +1,3 @@
-![hackerman](hackerman.png)
 
 ### Hi there 👋
 
