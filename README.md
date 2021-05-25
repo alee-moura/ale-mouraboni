@@ -30,7 +30,7 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 
 <table>
     <tr>
-    <p align="center">Github and Wakatime stats</p>
+    <p align="center">:mag_right: Github and Wakatime stats</p>
       <td width="50%" align="center" vertical-align="middle">
         <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=midnight-purple">
       </td>
