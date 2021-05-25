@@ -1,8 +1,8 @@
-![hackerman](hackerman.png)
-
-### Hi there 👋
-
-### I'm Alexandre!
+<table>
+    <tr>
+        <td width="50%" align="left">
+            <h3>Hi there 👋</h3>
+            <h3>I'm Alexandre!</h3>
 
 [![Website](https://img.shields.io/badge/-Website-1b1bbb)](https://www.alexandremoura.me/)
 [![CajuComunica](https://img.shields.io/badge/-CajuComunica-f08700)](http://cajucomunica.com.br/)
@@ -21,6 +21,12 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 * Study every morning
 * Coding at least 3 hours a day
 * A lot of water :)
+        </td>
+        <td width="50%" align="right">
+            <img src="hackerman.png">
+        </td>
+    </tr>
+</table>
 
 <table>
     <tr>
