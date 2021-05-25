@@ -30,6 +30,29 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 
 <table>
     <tr>
+    <p align="center">Github and Wakatime stats</p>
+      <td width="50%" align="center" vertical-align="middle">
+        <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=midnight-purple">
+      </td>
+      <td width="50%" align="center" vertical-align="middle">
+        <img width="100%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=midnight-purple">
+      </td>
+    </tr>
+</table>
+<table>
+    <tr>
+      <td width="50%" align="center" vertical-align="middle">
+        <img width="100%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=midnight-purple">
+      </td>
+      <td width="50%" align="center" vertical-align="middle">
+        <img alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=@alemouraboni&theme=midnight-purple">
+      </td>
+    </tr>
+</table>
+
+
+<table>
+    <tr>
     <p align="center">:globe_with_meridians: Technologies and tools I use:</p>
         <td width="20%">
             <h3 align="center">🚀 Skills</h3>
@@ -46,8 +69,11 @@ Welcome to my Github page! My name is Alexandre, Feel free!
             <img alt="Figma" src="https://img.shields.io/badge/%20Figma-Application-%23e04a34?style=for-the-badge&logo=figma&logoColor=white">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/%20Visual%20Studio%20Code-Application-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
             <img alt="NPM" src="https://img.shields.io/badge/%20NPM-Pack%20Manager-%23cc3534?style=for-the-badge&logo=npm&logoColor=white">
+            <br>
             <img alt="Linux" src="https://img.shields.io/badge/%20LINUX-System-%23dd4814?style=for-the-badge&logo=linux&logoColor=white">
             <img alt="Windows" src="https://img.shields.io/badge/%20WINDOWS-System-%230066cc?style=for-the-badge&logo=windows&logoColor=white">
         </td>
     </tr>
 </table>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
