@@ -1,15 +1,12 @@
-<<<<<<< HEAD
 <table>
     <tr>
         <td width="50%" align="left">
             <h3>Hi there 👋</h3>
             <h3>I'm Alexandre!</h3>
-=======
 
 ### Hi there 👋
 
 ### I'm Alexandre!
->>>>>>> 1aa4b53e793b2c4c47c2664dfec8ae856d296348
 
 [![Website](https://img.shields.io/badge/-Website-1b1bbb)](https://www.alexandremoura.me/)
 [![CajuComunica](https://img.shields.io/badge/-CajuComunica-f08700)](http://cajucomunica.com.br/)
