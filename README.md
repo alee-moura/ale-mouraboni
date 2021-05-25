@@ -1,6 +1,4 @@
-<table>
-    <tr>
-        <td width="50%" align="left">
+![hackerman](hackerman.png)
 
 ### Hi there 👋
 
@@ -23,14 +21,6 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 * Study every morning
 * Coding at least 3 hours a day
 * A lot of water :)
-        </td>
-        <td width="50%" align="right">
-            <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=graywhite">
-            <img width="100%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=graywhite">
-            <img width="100%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=graywhite">
-        </td>
-    </tr>
-</table>
 
 <table>
     <tr>
@@ -49,7 +39,6 @@ Welcome to my Github page! My name is Alexandre, Feel free!
             <img alt="Markdown" src="https://img.shields.io/badge/%20MARKDOWN-Language-%23111111?style=for-the-badge&logo=markdown&logoColor=white">
             <img alt="Figma" src="https://img.shields.io/badge/%20Figma-Application-%23e04a34?style=for-the-badge&logo=figma&logoColor=white">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/%20Visual%20Studio%20Code-Application-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-            </br>
             <img alt="NPM" src="https://img.shields.io/badge/%20NPM-Pack%20Manager-%23cc3534?style=for-the-badge&logo=npm&logoColor=white">
             <img alt="Linux" src="https://img.shields.io/badge/%20LINUX-System-%23dd4814?style=for-the-badge&logo=linux&logoColor=white">
             <img alt="Windows" src="https://img.shields.io/badge/%20WINDOWS-System-%230066cc?style=for-the-badge&logo=windows&logoColor=white">
