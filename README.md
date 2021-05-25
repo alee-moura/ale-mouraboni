@@ -4,10 +4,6 @@
             <h3>Hi there 👋</h3>
             <h3>I'm Alexandre!</h3>
 
-### Hi there 👋
-
-### I'm Alexandre!
-
 [![Website](https://img.shields.io/badge/-Website-1b1bbb)](https://www.alexandremoura.me/)
 [![CajuComunica](https://img.shields.io/badge/-CajuComunica-f08700)](http://cajucomunica.com.br/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ale-mouraboni)
