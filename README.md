@@ -6,7 +6,7 @@
 
 ### I'm Alexandre!
 
-[![Website](https://img.shields.io/badge/-Website-1f1669)](http://amastertech.com.br/)
+[![Website](https://img.shields.io/badge/-Website-1b1bbb)](https://www.alexandremoura.me/)
 [![CajuComunica](https://img.shields.io/badge/-CajuComunica-f08700)](http://cajucomunica.com.br/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ale-mouraboni)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ale-mouraboni/)
@@ -15,7 +15,7 @@
 Welcome to my Github page! My name is Alexandre, Feel free!
 
 #### 🌱 Main studies currently:
-* Bootcamp Front End - IGTI
+* English
 * Linux LPIC-1
 * JavaScript
 
@@ -25,9 +25,9 @@ Welcome to my Github page! My name is Alexandre, Feel free!
 * A lot of water :)
         </td>
         <td width="50%" align="right">
-            <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=algolia">
-            <img width="100%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=algolia">
-            <img width="100%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=algolia">
+            <img width="100%" height="auto" align="right" alt="Stats Vercel App" src="https://github-readme-stats.vercel.app/api?username=ale-mouraboni&show_icons=true&theme=graywhite">
+            <img width="100%" heigth="auto" align="right" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ale-mouraboni&theme=graywhite">
+            <img width="100%" height="auto" align="right" alt="Most Used Languagens Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ale-mouraboni&layout=compact&theme=graywhite">
         </td>
     </tr>
 </table>
@@ -43,9 +43,11 @@ Welcome to my Github page! My name is Alexandre, Feel free!
             <img alt="CSS3" src="https://img.shields.io/badge/%20CSS-Frontend-%231772b6?style=for-the-badge&logo=css3&logoColor=white">
             <img alt="JavaScript" src="https://img.shields.io/badge/%20JAVASCRIPT-Frontend-%23f7df1e?style=for-the-badge&logo=javascript&logoColor=white">
             <img alt="Bootstrap" src="https://img.shields.io/badge/%20BOOTSTRAP-Framework-%23563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
+            <img alt="Sass" src="https://img.shields.io/badge/%20SASS-Frontend-%23cc6699?style=for-the-badge&logo=sass&logoColor=white">
             <img alt="Git" src="https://img.shields.io/badge/%20GIT-Vcs-%23f34f29?style=for-the-badge&logo=git&logoColor=white">
             <img alt="Github" src="https://img.shields.io/badge/%20GITHUB-Social-%23111111?style=for-the-badge&logo=github&logoColor=white">
             <img alt="Markdown" src="https://img.shields.io/badge/%20MARKDOWN-Language-%23111111?style=for-the-badge&logo=markdown&logoColor=white">
+            <img alt="Figma" src="https://img.shields.io/badge/%20Figma-Application-%23e04a34?style=for-the-badge&logo=figma&logoColor=white">
             <img alt="Visual Studio Code" src="https://img.shields.io/badge/%20Visual%20Studio%20Code-Application-%23007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white">
             </br>
             <img alt="NPM" src="https://img.shields.io/badge/%20NPM-Pack%20Manager-%23cc3534?style=for-the-badge&logo=npm&logoColor=white">
