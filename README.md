@@ -73,4 +73,4 @@ Welcome to my Github page! My name is Alexandre, Feel free!
             <img alt="Windows" src="https://img.shields.io/badge/%20WINDOWS-System-%230066cc?style=for-the-badge&logo=windows&logoColor=white">
         </td>
     </tr>
-</table>
+</table
